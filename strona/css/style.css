@@ -26,7 +26,7 @@ body {
 	/* position: absolute; */
 	display: flex;
 	margin: 0px 20px;
-	height: 65px;
+	height: 45px;
 	align-items: center;
 }
 .nav-links {
@@ -106,7 +106,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 60vh;
+	height: 50vh;
 	background-image: url(/strona/src/img/jungle1920.jpg);
 	background-size: 100%;
 	background-position: center;
@@ -116,7 +116,7 @@ body {
 .hero-shadow {
 	position: absolute;
 	width: 100%;
-	height: 60vh;
+	height: 50vh;
 	background-color: rgba(0, 0, 0, 0.6);
 	z-index: -10;
 }
@@ -361,12 +361,12 @@ textarea {
 		height: 60px;
 	}
 	.hero-img {
-		height: 40vh;
+		height: 30vh;
 		background-image: url(/strona/src/img/jungle640.jpg);
 		background-size: 150%;
 	}
 	.hero-shadow {
-		height: 40vh;
+		height: 30vh;
 	}
 	.hero-text {
 		margin: 0 10px;
@@ -417,7 +417,7 @@ textarea {
 	}
 	.hero-img2 {
 		margin: 20px 0;
-		height: 40vh;
+		height: 30vh;
 		background-image: url(/strona/src/img/girl1920.jpg);
 	}
 	.hero-text2 {
@@ -464,12 +464,12 @@ textarea {
 }
 @media (min-width: 576px) and (max-width: 759px) {
 	.hero-img {
-		height: 50vh;
+		height: 40vh;
 		background-image: url(/strona/src/img/jungle640.jpg);
 		background-size: 105%;
 	}
 	.hero-shadow {
-		height: 50vh;
+		height: 40vh;
 	}
 	.hero-text {
 		margin: 0 10px;
@@ -512,7 +512,7 @@ textarea {
 	}
 	.hero-img2 {
 		margin: 10px 10px;
-		height: 30vh;
+		height: 40vh;
 		background-image: url(/strona/src/img/girl1920.jpg);
 		background-size: 130%;
 	}
@@ -593,12 +593,12 @@ textarea {
 }
 @media (min-width: 760px) and (max-width: 1199px) {
 	.hero-img {
-		height: 50vh;
+		height: 40vh;
 		background-image: url(/strona/src/img/jungle1920.jpg);
 		background-size: 100%;
 	}
 	.hero-shadow {
-		height: 50vh;
+		height: 40vh;
 	}
 	.hero-text {
 		margin: 0 15px;
