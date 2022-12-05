@@ -12,18 +12,13 @@ body {
 }
 .nav {
 	position: fixed;
-	/* display: flex; */
-	/* flex-direction: row; */
 	align-items: center;
 	justify-content: space-between;
-	/* height: 80px; */
 	width: 100%;
-	/* top: 20px; */
 	background-color: #fff;
 	z-index: 2;
 }
 .nav-desktop {
-	/* position: absolute; */
 	display: flex;
 	margin: 0px 20px;
 	height: 45px;
@@ -33,10 +28,9 @@ body {
 	margin: 0px 20px;
 	position: absolute;
 	right: 50px;
-	/* display: none; */
 }
 .nav-bar {
-	padding: 23px 20px;
+	padding: 13px 20px;
 	text-decoration: none;
 	color: black;
 	font-weight: 200;
@@ -61,7 +55,7 @@ body {
 	font-size: 24px;
 	background-color: white;
 	border: none;
-	padding: 10px 20px;
+	padding: 8px 20px;
 	cursor: pointer;
 	color: gray;
 	transform: translateY(-100%);
@@ -486,9 +480,6 @@ textarea {
 	.nav-desktop {
 		flex-direction: row;
 		justify-content: space-between;
-	}
-	.bars {
-		/* transform: translateY(0); */
 	}
 
 	.about-us-one {

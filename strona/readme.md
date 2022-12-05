@@ -2,6 +2,7 @@
 
 ##Strona stworzona dla fikcyjnego klienta jako zakończenie kursu MMCSchool cz.4
 
+
 ![Screenshot](forestgroupScreenShot.png)
 ![Screenshot](forestgroupScreenShot2.png)
 
