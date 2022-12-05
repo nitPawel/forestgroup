@@ -107,7 +107,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 50vh;
-	background-image: url(/strona/src/img/jungle1920.jpg);
+	background-image: url(../src/img/jungle1920.jpg);
 	background-size: 100%;
 	background-position: center;
 	background-attachment: cover;
@@ -150,7 +150,7 @@ h2 {
 	margin: 0 20px;
 	height: 450px;
 	width: 450px;
-	background-image: url(/strona/src/img/waters1280.jpg);
+	background-image: url(../src/img/waters1280.jpg);
 	background-position: center;
 	background-attachment: cover;
 }
@@ -173,7 +173,7 @@ h2 {
 	justify-content: center;
 	align-items: center;
 	height: 50vh;
-	background-image: url(/strona/src/img/girl1920.jpg);
+	background-image: url(../src/img/girl1920.jpg);
 	background-size: 130%;
 	background-position: center;
 	background-attachment: cover;
@@ -362,7 +362,7 @@ textarea {
 	}
 	.hero-img {
 		height: 30vh;
-		background-image: url(/strona/src/img/jungle640.jpg);
+		background-image: url(../src/img/jungle640.jpg);
 		background-size: 150%;
 	}
 	.hero-shadow {
@@ -394,8 +394,6 @@ textarea {
 	.hero-img3 {
 		height: 250px;
 		width: 250px;
-		background-image: url(/strona/src/img/waters1280.jpg);
-		background-size: 160%;
 	}
 	.about-us-one {
 		flex-direction: column;
@@ -418,7 +416,7 @@ textarea {
 	.hero-img2 {
 		margin: 20px 0;
 		height: 30vh;
-		background-image: url(/strona/src/img/girl1920.jpg);
+		background-image: url(../src/img/girl640.jpg);
 	}
 	.hero-text2 {
 		color: #fff;
@@ -464,12 +462,12 @@ textarea {
 }
 @media (min-width: 576px) and (max-width: 759px) {
 	.hero-img {
-		height: 40vh;
-		background-image: url(/strona/src/img/jungle640.jpg);
+		height: 30vh;
+		background-image: url(../src/img/jungle640.jpg);
 		background-size: 105%;
 	}
 	.hero-shadow {
-		height: 40vh;
+		height: 30vh;
 	}
 	.hero-text {
 		margin: 0 10px;
@@ -512,8 +510,8 @@ textarea {
 	}
 	.hero-img2 {
 		margin: 10px 10px;
-		height: 40vh;
-		background-image: url(/strona/src/img/girl1920.jpg);
+		height: 30vh;
+		background-image: url(../src/img/girl640.jpg);
 		background-size: 130%;
 	}
 	.hero-text2 {
@@ -593,12 +591,11 @@ textarea {
 }
 @media (min-width: 760px) and (max-width: 1199px) {
 	.hero-img {
-		height: 40vh;
-		background-image: url(/strona/src/img/jungle1920.jpg);
+		height: 30vh;
 		background-size: 100%;
 	}
 	.hero-shadow {
-		height: 40vh;
+		height: 30vh;
 	}
 	.hero-text {
 		margin: 0 15px;
@@ -613,8 +610,7 @@ textarea {
 		font-size: 24px;
 	}
 	.hero-img2 {
-		height: 40vh;
-		background-image: url(/strona/src/img/girl1920.jpg);
+		height: 30vh;
 	}
 	.about-us-one {
 		flex-direction: row;
